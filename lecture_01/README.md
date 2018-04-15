@@ -40,4 +40,4 @@
 ## 授業出席確認
 毎回授業時間内に下記URLに芸大アカウントからアクセスし出席手続きを完了させること。
 
-[出席フォーム](https://goo.gl/forms/5cpNwSocL7hDmPlH3)
+出席フォーム: [https://goo.gl/forms/5cpNwSocL7hDmPlH3](https://goo.gl/forms/5cpNwSocL7hDmPlH3)
