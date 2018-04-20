@@ -15,7 +15,7 @@
 - ツールバー
 - スナップオプション
 
-<img src="images/ui.png" width="50%">
+<img src="images/ui.png" width="100%">
 
 参考動画: [https://youtu.be/HRquyx1Mga8](https://youtu.be/HRquyx1Mga8)
 
