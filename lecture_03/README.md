@@ -1,40 +1,41 @@
-# CAD 図法演習Ⅰ（前期） 第02回
+# CAD 図法演習Ⅰ（前期） 第03回
 
 
 ## 本日の内容
-- RhinocerosのUI（ユーザーインターフェース）を学ぶ
-- コマンド入力の方法を学ぶ
-- ボックスを使って椅子を作る
+- 3角形の作り方を通して、２Dコマンドを学ぶ
+- 演習：簡易パターンを描いてみる
+- 応用演習：参考イメージパターンをトレースする
 
 
-## RhinocerosのUI（ユーザーインターフェース）を学ぶ
-- ナビゲーション
-- 単位設定
-- レイヤー
-- プロパティ
-- ツールバー
-- スナップオプション
+## 3角形の作り方を通して、２Dコマンドを学ぶ
+- 色々な３角形の作り方
+- ①[line] [rotate] [join] [planar srf]
+- ②[circle] [divide] [polyline]
+- ③[explode] [join]
+- ④[offset]
+- ⑤[points on]
+- ⑥[fillet]
+- ⑦[extend] [trim]
+- ⑧ [scale]
 
-<img src="images/ui.png" width="100%">
-
-参考動画: [https://youtu.be/HRquyx1Mga8](https://youtu.be/HRquyx1Mga8)
-
-
-## コマンド入力の方法を学ぶ
-- 床を作る：【box】【distance】
-- 柱を作る：【box】【mirror】【move】【copy】
-
-<img src="images/column.png" width="50%">
-
-参考動画: [https://youtu.be/0RuwjsEMzX0](https://youtu.be/0RuwjsEMzX0)
-
-*英語版のRhinoceros 5を利用する前提です。*
+<img src="images/1_tri.PNG" width="70%">
 
 
-## ボックスを使って椅子を作る
-先に学んだコマンドを利用して椅子を作ってみる。
 
-<img src="images/box_chair.png" width="50%">
+## 演習：簡易パターンを描いてみる
+- [pt] [array] [curve] [interp crv] [handle curve] [sketch]
+  [planar srf] [split]
+
+<img src="images/2_trace.PNG" width="60%">
+
+
+
+
+
+## 応用演習：参考イメージパターンをトレースする
+- [picture frame]で参考イメージを配置する
+
+<img src="images/image.jpg" width="20%">
 
 
 ## 参考
