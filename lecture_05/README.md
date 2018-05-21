@@ -13,19 +13,11 @@
 
 <img src="images/2.jpg" width="40%">
 
-　  
-　  
-　  
-
 ## 複雑な曲面の照明を作る
 - 使用コマンド：【CageEdit 】【Trim 】【Contour 】【Extrude Crv】【Intersect 】【Split】　　
               【Scale 2D】【Sweep1】【Sweep2】【Pipe】【OffsetSrf 】
 
-<img src="images/3.jpg" width="30%">
-
-
-
-
+<img src="images/3.jpg" width="40%">
 
 ## 応用演習1：指定の椅子を作ってみる
 - ヒントコマンド：【Loft】【NetworkSrf】
@@ -39,5 +31,7 @@
 
 ## 参考
 
+- 出席フォーム: [https://goo.gl/forms/5cpNwSocL7hDmPlH3](https://goo.gl/forms/5cpNwSocL7hDmPlH3)
+- Google Classroomのクラスコード：vb77fs
 - 授業用のデータ置き場: [https://github.com/TUA2018-CAD-1/TUA2018_CAD_1_Repo](https://github.com/TUA2018-CAD-1/TUA2018_CAD_1_Repo)
 - 授業用の参考動画のプレイリスト: [https://www.youtube.com/playlist?list=PLzRzqTjuGIDiCASLSc7DNeuCAcnJgjv6H](https://www.youtube.com/playlist?list=PLzRzqTjuGIDiCASLSc7DNeuCAcnJgjv6H)
